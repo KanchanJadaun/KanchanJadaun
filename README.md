@@ -39,17 +39,9 @@ Currently, I’m focused on mastering Python and building real-world projects to
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/kanchanjadaun)
-- 📧 Email: kanchan.ai@gmail.com
+- 📧 Email: thakurashish202136@gmail.com
 
----
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanchanjadaun&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanchanjadaun&layout=compact" />
-</p>
-
----
 
 ### 💬 Quote I Believe In
 > *"Dream big. Start small. Learn fast."*
