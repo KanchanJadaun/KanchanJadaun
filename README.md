@@ -51,4 +51,3 @@ Currently, I’m focused on mastering Python and building real-world projects to
 
 ### 💬 Quote I Believe In
 > *"Dream big. Start small. Learn fast."*
-
