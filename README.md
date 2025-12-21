@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanchan Jadaun</h1>
-<h3 align="center">Aspiring AI Engineer | Python & ML Enthusiast | GATE Aspirant</h3>
+<h3 align="center">Aspiring AI Engineer | Python & ML Enthusiast</h3>
 
 ---
 
