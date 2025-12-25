@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanchan Jadaun</h1>
+<h1 align="center">Hi 👋, I'm Kanchan </h1>
 <h3 align="center">Aspiring AI Engineer | Python & ML Enthusiast</h3>
 
 ---
