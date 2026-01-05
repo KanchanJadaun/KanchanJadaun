@@ -38,7 +38,7 @@ Currently, I’m focused on mastering Python and building real-world projects to
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/kanchanjadaun)
+- 💼 [LinkedIn](www.linkedin.com/in/kanchan0812)
 - 📧 Email: thakurashish202136@gmail.com
 
 
