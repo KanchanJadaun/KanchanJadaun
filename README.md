@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kanchan </h1>
-<h3 align="center">Aspiring AI Engineer | Python & ML Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist </h3>
 
 ---
 
-🌟 I am a BCA student with a passion for Artificial Intelligence and Machine Learning.  
-Currently, I’m focused on mastering Python and building real-world projects to strengthen my AI skills.
+🌟 I am a BCA student with a passion for Data Science with Artificial Intelligence and  Machine Learning.  
+Currently, I’m focused on mastering Python and building real-world projects to strengthen my Data Science skills.
 
 ---
 
@@ -31,7 +31,7 @@ Currently, I’m focused on mastering Python and building real-world projects to
 ---
 
 ### 🛠️ Projects (Coming Soon)
-- ✅ AI Chatbot using Python
+- ✅ Data Analysing using Python
 - ✅ Resume Generator (CLI version)
 - ✅ Mini ML Projects using Scikit-learn
 
